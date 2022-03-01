@@ -1,3 +1,6 @@
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Runa%20Nam&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Hello%20World!&descAlignY=51&descAlign=62)
+
 ![RunaNam's GitHub stats](https://github-readme-stats.vercel.app/api?username=RunaNam&show_icons=true&theme=tokyonight&count_private=true)
 
 <a href="https://www.notion.so/BEYOND-IT-87beda6030434305925f6a5ec066b30d" target="_blank"><img src="https://img.shields.io/badge/portfolio-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
